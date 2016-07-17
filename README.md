@@ -1,4 +1,5 @@
 # Shell-script-to-create-archive-tar-linux
+I created this Bash Script as a part of Operating System Course.
 Write a Bash script, called archive, with the following synopsis:
 archive [-s size] [-t dir1] [-d dir2] < ext_list >
 where dir1 and dir2 are two valid directories.
